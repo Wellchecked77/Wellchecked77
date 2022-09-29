@@ -30,15 +30,6 @@ The DevOps Guy who ♥ automating stuff!!!
 
 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - Github
 
-🧾 Certifications I have Accomplished
-🎖 Cloud DevOps NanoDegree - Udacity
-
-🎖 Various Certification of Docker and Kubernetes - Pluralsight
-
-🎖 AWS Concepts - LinuxAcademy
-
-🎖 Packaging Applications using Helm - Pluralsight and many more...
-
 🎖🎖🎖 Complete list of my certifications here
 
 Programming Language Stack
