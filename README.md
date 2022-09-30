@@ -1,5 +1,5 @@
 # Wellchecked
-Hi 👋, I'm Mahesh 🌀 from India 🇮🇳
+Hi 👋, I'm Mahesh 🌀 from India
 The DevOps Guy who ♥ automating stuff!!!
 
 
@@ -9,7 +9,7 @@ The DevOps Guy who ♥ automating stuff!!!
 
 💡 Hashtag that describes me #DevOpsWizard
 
-📝 I regulary write articles on few Blogs
+📝 I regulary write articles on Blogs
 
 💬 Ask me about DevOps Tools and Practices
 
@@ -18,17 +18,17 @@ The DevOps Guy who ♥ automating stuff!!!
 ⚡ Fun fact We guys automate stuff
 
 👨‍💻 Some of the projects I have worked recently
-📦 Terraform Templates for setting up Infrastructure over AWS - Github
+📦 Terraform Templates for setting up Infrastructure over AWS 
 
-📦 Deployment of a static webpage using AWS s3 and CloudFront - Github
+📦 Deployment of a static webpage using AWS s3 and CloudFront 
 
-📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - Github
+📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 
 
-📦 CI of a python application using circleCI - Github
+📦 CI of a python application using circleCI 
 
-📦 Containerizing a ML MicroService and running it over Kubernetes - Github
+📦 Containerizing a ML MicroService and running it over Kubernetes 
 
-📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - Github
+📦 A Capstone Project for setting up end to end devops pipeline prepared during my free time
 
 🎖🎖🎖 Complete list of my certifications here
 
