@@ -13,7 +13,7 @@ The DevOps Guy who ♥ automating stuff!!!
 
 💬 Ask me about DevOps Tools and Practices
 
-📫 You can reach me at wellchecked77@gmail.com
+📫 You can reach me at wellchecked@duck.com 
 
 ⚡ Fun fact We guys automate stuff
 
