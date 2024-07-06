@@ -1,13 +1,12 @@
 # Wellchecked
 Hi 👋, I'm Mahesh 🌀 from India
 The DevOps Guy who ♥ automating stuff!!!
-
-
+🚀 DevOps Engineer Transitioning to AI/ML
 
 
 🌱 I’m currently working on Setting up infra using Terraform over AWS
 
-💡 Hashtag that describes me #DevOpsWizard
+💡 Hashtag that describes me #DevOpsWizard #Cloud Enthusiast #Aspiring AI/ML Engineer
 
 📝 I regulary write articles on Blogs
 
