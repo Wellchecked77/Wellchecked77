@@ -1,5 +1,5 @@
 # Wellchecked
-Hi 👋, I'm Mahesh 🌀 from India
+Hi 👋, I'm Mahesh 🌀 from Austin
 The DevOps Guy who ♥ automating stuff!!!
 🚀 DevOps Engineer Transitioning to AI/ML
 
