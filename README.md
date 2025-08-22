@@ -21,7 +21,7 @@ The DevOps Guy who ♥'s automating stuff!!!
 👨‍💻 Some of the projects I have worked recently
 📦 Terraform Templates for setting up Infrastructure over AWS 
 
-📦 Deployment of a static webpage using AWS s3 and CloudFront 
+📦 Deployment of a static webpage using AWS S3 and CloudFront 
 
 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 
 
